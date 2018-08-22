@@ -3,7 +3,7 @@
 (DX11, DX12, Vulkan)
 
 By Sunil Raman, Mojuze.Com   
-Compiled binaries licensed as GNU GPLV3  
+Compiled software released as Apache License 2.0
 Special thanks to Sonic Ether Bloom & Demo,
 Focus Advanced FPS Counter, "CHMAN SSAA",
 Unity3D and Unity3D Asset Store
