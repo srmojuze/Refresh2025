@@ -2,10 +2,10 @@
 ## Freesync, Gsync, All The Syncs Tester  
 (DX11, DX12, Vulkan)
 
-By Sunil Raman, Mojuze.Com   
-Compiled software released as Apache License 2.0
-Special thanks to Sonic Ether Bloom & Demo,
-Focus Advanced FPS Counter, "CHMAN SSAA",
+By Sunil Raman, Mojuze.Com  
+Compiled software released as Apache License 2.0  
+Special thanks to Sonic Ether Bloom & Demo,  
+Focus Advanced FPS Counter, "CHMAN SSAA",  
 Unity3D and Unity3D Asset Store
 
 Press + or - to increase or decrease particle count to enable higher or lower frame rates. Press up or down to speed up or slow down the speed of the animations. Press left or right to increase or decrease bloom effect. Press space to reset.
