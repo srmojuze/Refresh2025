@@ -1,12 +1,15 @@
 # REFRESH|2025
 ## Freesync, Gsync, All The Syncs Tester  
-(DX11, DX12, Vulkan)
+Windows (DX11, DX12, Vulkan)  
+Linux (OpenGL, Vulkan)
 
 By Sunil Raman, Mojuze.Com  
 Compiled software released as Apache License 2.0  
 Special thanks to Sonic Ether Bloom & Demo,  
 Focus Advanced FPS Counter, "CHMAN SSAA",  
 Unity3D and Unity3D Asset Store
+
+Linux update: Binary will attempt to run in Vulkan, otherwise fallback to OpenGL. You can use -force-glcore or -force-vulkan flags to switch between the two. Of course, chmod +x if needed after unzipping.
 
 Press + or - to increase or decrease particle count to enable higher or lower frame rates. Press up or down to speed up or slow down the speed of the animations. Press left or right to increase or decrease bloom effect. Press space to reset.
 
